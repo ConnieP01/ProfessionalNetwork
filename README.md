@@ -1,4 +1,4 @@
-# Professional Network Applicaetion
+# Professional Network Application
 
 ## Table of Contents
 * [Introduction] (#introduction)
